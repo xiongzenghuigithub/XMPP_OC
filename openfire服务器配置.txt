@@ -1,0 +1,9 @@
+openfire服务器登录:	admin/123456
+
+XMPPJID:  zhangsan@xmpp服务器的ip地址/域名 (xiong@127.0.0.1)
+
+
+主机域名:	  macbook-pro.local
+
+
+
